@@ -1,4 +1,4 @@
-# belajarnext.js
+# belajar next.js
 project ini di jalankan dengan node.js version v18.12.1
 
 untuk menggunakan project ini clone repo ini, pastikan yarn sudah terinstall di node kamu.
